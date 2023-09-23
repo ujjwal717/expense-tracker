@@ -32,6 +32,7 @@ def user_name(name):
     cur.execute(command_user, (user_name,))
 
     link.commit()
+    
 def salaries(name, earning):
     user_salary = earning
     cur.execute("SELECT user_id FROM users WHERE user_name = %s", (name,))
@@ -42,6 +43,7 @@ def salaries(name, earning):
     cur.execute(command_salary, (user_id, user_salary))
 
     link.commit()
+    
 def expenditure(name, spend, money):
     amount = money
     cur.execute("SELECT user_id FROM users WHERE user_name = %s", (name,))
@@ -55,6 +57,7 @@ def expenditure(name, spend, money):
     cur.execute(command_expenditure, (user_id, expense_id, amount))
 
     link.commit()
+    
 def spent(name):
     username = name
     cur.execute("SELECT user_name FROM users where user_name = %s", (username,))
