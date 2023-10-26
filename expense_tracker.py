@@ -90,6 +90,7 @@ else:
     a = input("Enter your already registered unique user name :- ")
     spend = input("Enter your expenditure name from the above given list :- ")
     money = int(input("Now, please tell the amount you spent on your selected expenditure name :- "))
+    print("Greetings User, Here are all your Expenses till now! ")
     expenditure(a, spend, money)
     spent(a)
 
