@@ -25,3 +25,12 @@ Also, you need to keep in mind about the constraints and data type while creatin
 
 
 
+
+
+
+
+![EXPENSE TRACKER ENTERING EXPENSE](https://github.com/ujjwal717/expense-tracker/assets/93403224/b9615489-7400-4469-af4b-eb6855a87618)
+
+
+
+
