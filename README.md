@@ -21,6 +21,7 @@ Also, you need to keep in mind about the constraints and data type while creatin
 **Here's the screenshot of the working of the Expense Tracker**
 
 
-![expense tracker image](https://github.com/ujjwal717/expense-tracker/assets/93403224/cce53bc3-8790-4b9b-a040-bfbf15bcbf26)
+![expense tracker , NO EXPENSE](https://github.com/ujjwal717/expense-tracker/assets/93403224/38dc3e9e-583c-49f0-9e6c-df4e756d7d74)
+
 
 
