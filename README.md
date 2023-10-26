@@ -17,3 +17,10 @@ pk = primary key
 
 Also, you need to keep in mind about the constraints and data type while creating the tables. for ex:- we can use "VARCHAR(255) to store the username so that user can make username using different characters, another example will be using combination of "user_id" and "expense_id" as primary key in the "expense" table which ensures referential integrity as they are foreign key as well and also removes our need to create a separate primary key for "expense" table. Also using both of them as primary key, they ensure efficient use of "JOIN" clause to get data from users,expense_types as well as expense table.
 
+
+**Here's the screenshot of the working of the Expense Tracker**
+
+
+![expense tracker image](https://github.com/ujjwal717/expense-tracker/assets/93403224/cce53bc3-8790-4b9b-a040-bfbf15bcbf26)
+
+
